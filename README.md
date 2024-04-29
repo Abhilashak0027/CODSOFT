@@ -1,23 +1,29 @@
-WELCOME to Number Guessing Game!!!!!!!
-This simple game challenges players to guess a randomly generated number within a 1-50 range. Have fun and see how quickly you can guess the correct number!!!
-Have fun and see how quickly you can guess the correct number!!!!!!!
+WELCOME TO CODSOFT TASK!!!!!!!
+# Codsoft C++ Tasks
 
-How to Play
-Setup:
-Specify the range of numbers within which the random number will be generated.
-Decide on the number of attempts allowed.
+Codsoft C++ Tasks is a collection of programming exercises and challenges designed to help individuals improve their C++ programming skills.
 
-Gameplay:
-The game will generate a random number within the range of 1-50.
-Players input their guesses.
-The game provides feedback on whether the guess is too high, too low, or correct.
-Repeat until the player guesses the correct number or runs out of attempts.
+## Table of Contents:
+1) guessing Number
+2) calculator
+3) Tic toe game
+4) todo list 
 
-Winning:
-If the player guesses the correct number within the allowed attempts, they win!
-If the player exhausts all attempts without guessing correctly, they lose.
+## Introduction
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
+Learning a programming language like C++ can be challenging, especially for beginners. Codsoft C++ Tasks provides a curated set of programming exercises and challenges that cover a wide range of topics, from basic syntax and data structures to advanced concepts like object-oriented programming, algorithms, and more.
 
+These exercises are designed to help you practice your C++ skills, reinforce your understanding of programming concepts, and prepare you for coding interviews or real-world projects.
+
+To get started with Codsoft C++ Tasks, you'll need to have a C++ knowledge
+
+From here, you can open the exercises in your preferred C++ development environment and start coding!
+After completing an exercise, you can refer to the provided solution in the `solutions` directory to compare your approach and learn from the alternative implementations.
+
+## Contributing
+
+Contributions to Codsoft C++ Tasks are welcome! If you'd like to contribute new exercises, improve existing ones, or provide additional test cases, please follow these steps:
+
+Please ensure that your contributions follow the existing structure and conventions used in the project.
 
 Feel free to customize this template to fit your specific game and its requirements.
